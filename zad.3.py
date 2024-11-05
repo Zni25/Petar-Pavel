@@ -1,0 +1,1 @@
+print("Ovo je greškom dodana skripta!")
